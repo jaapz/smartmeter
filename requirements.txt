@@ -1,0 +1,3 @@
+arrow==0.7.0
+CairoSVG==1.0.19
+pygal==2.0.12
