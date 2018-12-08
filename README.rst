@@ -8,4 +8,4 @@ historical data.
 
 A graph rendered by `graph.py` looks like this:
 
-.. image:: https://rawgit.com/jaapz/smartmeter/master/usage.svg
+.. image:: https://cdn.jsdelivr.net/gh/jaapz/smartmeter@master/usage.svg
